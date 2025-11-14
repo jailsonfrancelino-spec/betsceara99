@@ -1,0 +1,5 @@
+{
+  "name": "Gerenciador de Cambistas BetsCeara99",
+  "description": "Um aplicativo para gerenciar pagamentos e empréstimos de cambistas, organizados por semanas, com resumos financeiros e status de pagamento.",
+  "requestFramePermissions": []
+}
